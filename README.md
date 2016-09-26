@@ -16,7 +16,7 @@ Reference taxonomy downloaded from mothur website (both 13_8 and 13_5 will work 
 gg_13_8_99.gg.tax
 ```
 Mapping file (gg IDs) is retrieved from PICRUSt website: 
-```R 
+```R
 97_otu_map.txt
 ```
 
